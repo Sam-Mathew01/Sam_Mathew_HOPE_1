@@ -1,0 +1,6 @@
+Booking Successful!
+Booking Details:
+Customer: Sam
+Table No: 5
+People: 3
+Paid 500.0 using Card.
