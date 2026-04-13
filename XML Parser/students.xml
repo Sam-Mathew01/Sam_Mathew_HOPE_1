@@ -1,0 +1,12 @@
+<students>
+    <student>
+        <id>1</id>
+        <name>Sam Mathew</name>
+        <age>20</age>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Livin Jospher</name>
+        <age>21</age>
+    </student>
+</students>

@@ -1,0 +1,25 @@
+1. Display All Students
+2. Find Student by ID
+3. Exit
+Enter choice: 1
+ID: 1, Name: Sam Mathew, Age: 20
+ID: 2, Name: Livin Jospher, Age: 21
+
+1. Display All Students
+2. Find Student by ID
+3. Exit
+Enter choice: 2
+Enter ID: 1
+ID: 1, Name: Sam Mathew, Age: 20
+
+1. Display All Students
+2. Find Student by ID
+3. Exit
+Enter choice: 2
+Enter ID: 2
+ID: 2, Name: Livin Jospher, Age: 21
+
+1. Display All Students
+2. Find Student by ID
+3. Exit
+Enter choice: 3
